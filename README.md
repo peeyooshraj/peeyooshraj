@@ -15,7 +15,7 @@ Industrial & Production Engineer with experience in EdTech teaching, now buildin
 
 A local-first manufacturing decision-support prototype that explores two practical questions: where production flow shows persistent pressure, and how production losses can be recorded without double-counting or inventing causality.
 
-The current public version includes the rule engine, synthetic leather-goods demo, regression tests, user manual, engineering safeguards, and explicit pilot boundaries. **The dataset is synthetic; the project has not yet been validated at Paradigm Leather Accessories or any other named factory.**
+The current public version includes the rule engine, synthetic leather-goods demo, regression tests, user manual, engineering safeguards, and explicit pilot boundaries. **The dataset is synthetic; the project has not yet been validated at any leather-goods manufacturer.**
 
 ## What I am building
 
